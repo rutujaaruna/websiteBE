@@ -1,0 +1,11 @@
+#node-modules
+/node_modules
+
+#pacakge-lock.json
+pacakge-lock.json
+
+#.env
+.env
+
+#swagger.json
+swagger.json
